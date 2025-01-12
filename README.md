@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mohamed Abdelhady<br>A passionate Software Engineering and Competitive programming
+Hi 👋, I'm Mohamed Abdelhady<br>A passionate Software Engineering and Competitive programmer
 
 
 ## 🌐 Socials:
