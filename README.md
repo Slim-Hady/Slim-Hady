@@ -1,8 +1,12 @@
 # 💫 About Me:
 Hi 👋, I'm Mohamed Abdelhady<br>A passionate Software Engineering and Competitive programmer
 
+leetcode : 
+
 
 ## 🌐 Socials:
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23E4405F.svg?logo=Codefroces&logoColor=white)]((https://codeforces.com/profile/Hady17))
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_abdelhady17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhady-a3a1802a3/) 
 
 # 💻 Tech Stack:
