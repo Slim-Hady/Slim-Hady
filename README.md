@@ -5,7 +5,7 @@ leetcode :
 
 
 ## 🌐 Socials:
-[![Codeforces](https://img.shields.io/badge/Codeforces-%23E4405F.svg?logo=Codefroces&logoColor=white)]((https://codeforces.com/profile/Hady17))
+[![Codeforces](https://img.shields.io/badge/Codefroces-%23E4405F.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Hady17) [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/Mohamed-Elsogher/) 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_abdelhady17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhady-a3a1802a3/) 
 
