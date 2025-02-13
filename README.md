@@ -1,8 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Mohamed Abdelhady<br>A passionate Software Engineering and Competitive programmer
-
-leetcode : 
-
+Hi 👋, I'm Mohamed Abdelhady
+A Software Engineer and Competitive Programmer with a strong passion for Computer Science. I love Quantum Computing, AI, and Low-Level System Projects. Always learning and exploring new technologies. 
 
 ## 🌐 Socials:
 [![Codeforces](https://img.shields.io/badge/Codefroces-%23E4405F.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Hady17) [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/Mohamed-Elsogher/) 
