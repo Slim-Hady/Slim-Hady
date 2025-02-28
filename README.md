@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Mohamed Abdelhady
-A Software Engineer and Competitive Programmer with a strong passion for Computer Science. I love Quantum Computing, AI, and Low-Level System Projects. Always learning and exploring new technologies. 
+A Software Engineer and Competitive Programmer with a strong passion for Computer Science.i love Low-Level System Projects and Start to learn Assembly and C Try to make low level project like Mini Operating System will include Compiler and Always Try to Understand The Deep of Programming . Always learning and exploring new technologies. 
 
 ## 🌐 Socials:
 [![Codeforces](https://img.shields.io/badge/Codefroces-%23E4405F.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Hady17) [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/Mohamed-Elsogher/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_abdelhady17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhady-a3a1802a3/) 
