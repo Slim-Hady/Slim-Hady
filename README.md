@@ -2,7 +2,7 @@
 i'm mohamed abdelhady<br>a Software Engineer with strong passion with all Computer science fields ( AI , Quantum, low level , etc)<br>Competitive programming with Algorithms Obsession <br>My dream to win ICPC medal 
 
 ## 🌐 Socials:
-[![Codeforces](https://img.shields.io/badge/Codefroces-%23E4405F.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Hady17) [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/Mohamed-Elsogher/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_abdelhady17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhady-a3a1802a3/) [![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@Mohamed_Hady-17)
+[![Codeforces](https://img.shields.io/badge/Codefroces-%23E4405F.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Hady17) [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/Mohamed-Elsogher/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_abdelhady17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhady-a3a1802a3/) [![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@Mohamed_Hady-17)
 
 
 # 💻 Tech Stack:
