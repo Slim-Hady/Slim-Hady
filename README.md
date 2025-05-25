@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelhady</h1>
-<h3 align="center">A Software engineering with passion anout Algorithms , competitive programming and math</h3>
+<h3 align="center">A Software engineering with passion about Algorithms , competitive programming and math</h3>
 
 - 🔭 I’m currently Learning on **Advanced Data structure and Algorithm**
 
