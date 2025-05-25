@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelhady</h1>
 <h3 align="center">A Software engineering with passion about Algorithms , competitive programming and math</h3>
 
-- 🔭 I’m currently Learning on **Advanced Data structure and Algorithm**
+- 🔭 I’m currently Learning  **Advanced Data structure and Algorithm**
 
 - 👯 I’m looking to collaborate on **Open source and low level project**
 
