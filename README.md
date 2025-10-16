@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelhady</h1>
-<h3 align="center">A Software engineering with passion anout Data Structure, Algorithms , Backend , Math and solving problems</h3>
-
-
-## 🌐 Socials:
-[![Codeforces](https://img.shields.io/badge/Codefroces-%23E4405F.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Hady17) [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/Hady17/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_abdelhady17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhady-a3a1802a3/) [![Youtube](https://img.shields.io/badge/Youtube-%230077B5.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@Mohamed_Hady-17)
+<h3 align="center">A Software engineering with passion about Data Structure, Algorithms , Backend , Math and solving problems</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
