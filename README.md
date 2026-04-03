@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abdelhady</h1>
+<h1 align="center">Hi, I'm Mohamed Abdelhady</h1>
 <h3 align="center">A Software engineering with passion about Data Structure, Algorithms , Backend , Math , operating system and solving problems</h3>
 
 <h3 align="left">Languages:</h3>
@@ -26,14 +26,6 @@
   </a> 
 </p>
 
-
-### GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Slim-Hady">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Slim-Hady&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
 
