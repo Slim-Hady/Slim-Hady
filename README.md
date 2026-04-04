@@ -29,21 +29,21 @@
 <h3 align="left"><b>Social:</b></h3>
 <p align="left">
   <a href="https://leetcode.com/u/Hady17/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white" alt="LeetCode" height="25"/>
   </a>
   <a href="https://codeforces.com/profile/Mo_Hady" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces" height="25"/>
   </a>
   <a href="https://hashnode.com/@Hady17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hashnode.svg" alt="Hashnode" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white" alt="Hashnode" height="25"/>
   </a>
   <a href="https://x.com/SlimHady_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X" height="25"/>
   </a>
   <a href="https://substack.com/@slimhady" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/substack.svg" alt="Substack" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Substack-FF6719?style=flat&logo=Substack&logoColor=white" alt="Substack" height="25"/>
   </a>
   <a href="https://stackoverflow.com/users/24956606/slimhady" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" alt="StackOverflow" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=StackOverflow&logoColor=white" alt="StackOverflow" height="25"/>
   </a>
 </p>
