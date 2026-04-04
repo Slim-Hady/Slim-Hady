@@ -29,21 +29,21 @@
 <h3 align="left"><b>Social:</b></h3>
 <p align="left">
   <a href="https://leetcode.com/u/Hady17/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/Mo_Hady" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-forces.svg" alt="Codeforces" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
   </a>
   <a href="https://hashnode.com/@Hady17" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hashnode.svg" alt="Hashnode" width="40" height="40"/>
   </a>
   <a href="https://x.com/SlimHady_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" width="40" height="40"/>
   </a>
   <a href="https://substack.com/@slimhady" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rss/rss-original.svg" alt="Substack" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/substack.svg" alt="Substack" width="40" height="40"/>
   </a>
   <a href="https://stackoverflow.com/users/24956606/slimhady" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" alt="StackOverflow" width="40" height="40"/>
   </a>
 </p>
