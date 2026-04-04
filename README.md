@@ -26,8 +26,14 @@
   </a> 
 </p>
 
+<br />
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left"><b>Social:</b></h3>
+<p align="left">
+  <a href="https://leetcode.com/u/Hady17/" target="_blank">LeetCode</a> • 
+  <a href="https://codeforces.com/profile/Mo_Hady" target="_blank">Codeforces</a> • 
+  <a href="https://hashnode.com/@Hady17" target="_blank">Hashnode</a> • 
+  <a href="https://x.com/SlimHady_" target="_blank">X (Twitter)</a> • 
+  <a href="https://substack.com/@slimhady" target="_blank">Substack</a> • 
+  <a href="https://stackoverflow.com/users/24956606/slimhady" target="_blank">StackOverflow</a>
+</p>
