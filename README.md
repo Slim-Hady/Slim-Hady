@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Abdelhady</h1>
 <h3 align="center">A Software engineering with passion about Data Structure, Algorithms , Backend , Math , operating system and solving problems</h3>
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
