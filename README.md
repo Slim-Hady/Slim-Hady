@@ -8,12 +8,6 @@
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> 
   </a> 
   </span>
-  <span>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> 
-  </a> 
-  </span>
-  
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/> 
   </a> 
