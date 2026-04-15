@@ -4,25 +4,25 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/> 
   </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/> 
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/> 
   </a> 
 </p>
 
