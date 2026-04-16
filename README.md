@@ -1,24 +1,11 @@
 <h1 align="center">Hi, I'm Mohamed Abdelhady</h1>
 <h3 align="center">A Software engineering with passion about Data Structure, Algorithms , Backend , Math , operating system and solving problems</h3>
 
-<h3 align="left">Languages:</h3>
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a></td>
-    <td>&nbsp;</td>
-    <td><a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a></td>
-    <td>&nbsp;</td>
-    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a></td>
-    <td>&nbsp;</td>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a></td>
-    <td>&nbsp;</td>
-    <td><a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" width="40" height="40"/></a></td>
-    <td>&nbsp;</td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a></td>
-    <td>&nbsp;</td>
-    <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a></td>
-  </tr>
-</table>
+### Languages:
+
+| C++ | C | Java | Python | Go | JavaScript | TypeScript |
+|------|----|-------|--------|----|-------------|-------------|
+| <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=go" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> | <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> |
 
 <h3 align="left"><b>Social:</b></h3>
 <p align="left">
