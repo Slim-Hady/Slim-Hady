@@ -2,17 +2,17 @@
 <h3 align="center">A Software engineering with passion about Data Structure, Algorithms , Backend , Math , operating system and solving problems</h3>
 
 <h3 align="left">Languages:</h3>
-<table border="1">
-  <tr>
-    <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/c/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://golang.org" target="_blank"><img src="https://skillicons.dev/icons?i=go" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a></td>
-  </tr>
-</table>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 <h3 align="left"><b>Social:</b></h3>
 <p align="left">
