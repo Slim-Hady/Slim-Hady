@@ -19,7 +19,7 @@
 </p>
 
 ### 🌐 Connect With Me
-<p align="center">
+<p>
   <a href="https://leetcode.com/u/Hady17/">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white"/>
   </a>
