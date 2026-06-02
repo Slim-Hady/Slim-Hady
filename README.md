@@ -3,10 +3,12 @@
   <strong>Software Engineering • Backend Engineering</strong>
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" height="2">
+</p>
 
 <p align="center">
-  <img src="./Anakin-ezgif.com-resize(1).gif" width="100%" height="40%" alt="Anakin Skywalker">
+  <img src="./Anakin-ezgif.com-resize(2).gif" width="100%" height="40%" alt="Anakin Skywalker">
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/Hady17/">
