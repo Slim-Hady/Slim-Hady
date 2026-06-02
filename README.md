@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Mohamed Abdelhady 👋</h1>
-
 <p align="center">
   <b>Software Engineering • Backend Engineering</b>
 </p>
@@ -9,8 +7,6 @@
 </p>
 
 <br>
-
-## 🌐 Contact Me
 
 <p align="center">
   <a href="https://leetcode.com/u/Hady17/">
