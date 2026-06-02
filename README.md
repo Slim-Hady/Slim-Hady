@@ -6,7 +6,7 @@
 <hr>
 
 <p align="center">
-  <img src="./Anakin-ezgif.com-resize(1).gif" width="100%" alt="Anakin Skywalker">
+  <img src="./Anakin-ezgif.com-resize(1).gif" width="80%" alt="Anakin Skywalker">
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/Hady17/">
