@@ -3,9 +3,8 @@
   <strong>Software Engineering • Backend Engineering</strong>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" height="2">
-</p>
+<hr>
+
 
 <p align="center">
   <img src="./Anakin-ezgif.com-resize(2).gif" width="100%" height="40%" alt="Anakin Skywalker">
