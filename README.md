@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./anakin-banner.gif" width="85%" alt="Anakin Skywalker">
+  <img src="./anakin-skywalker-gif-5.gif" width="85%" alt="Anakin Skywalker">
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/Hady17/">
