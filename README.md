@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./Anakin Skywalker Revenge of the Sith Header.jpeg" width="80%" alt="Anakin Skywalker">
+  <img src="./Anakin.gif" width="100%" alt="Anakin Skywalker">
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/Hady17/">
