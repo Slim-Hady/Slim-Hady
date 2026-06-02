@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="./anakin-skywalker-gif-5.gif" width="100%" alt="Banner">
+  <img src="./anakin-skywalker-gif-5.gif" width="100%" height="150" alt="Banner">
 </p>
-
 <br>
 
 ## 🌐 Contact Me
