@@ -1,10 +1,10 @@
 
 <p align="center">
-  Software Engineering • Backend Engineering
+  <strong>Software Engineering • Backend Engineering</strong>
 </p>
 
 <p align="center">
-  <img src="./anakin-skywalker-gif-5.gif" width="85%" alt="Anakin Skywalker">
+  <img src="./Anakin Skywalker Revenge of the Sith Header.jpeg" width="100%" alt="Anakin Skywalker">
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/Hady17/">
