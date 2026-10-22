@@ -6,11 +6,6 @@
 <hr>
 
 <p align="center">
-  <img src="./Anakin-ezgif.com-resize(2).gif" width="100%" height="40%" alt="Anakin Skywalker">
-</p>
-
-
-<p align="center">
   <a href="https://leetcode.com/u/Hady17/">
     <img height="28" src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&style=flat-square">
   </a>
